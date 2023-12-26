@@ -1,0 +1,22 @@
+[
+  {
+    "_id": {
+      "$oid": "6570e92ee7745a7c1c3f7499"
+    },
+    "name": "Archery"
+  },
+  {
+    "_id": {
+      "$oid": "6570e9e9addd96683a75ee17"
+    },
+    "name": "Swimming"
+  },
+  {
+    "_id": {
+      "$oid": "6570ea02bbd41e43108d3712"
+    },
+    "name": "Movies"
+  }
+]
+
+

@@ -1,0 +1,21 @@
+{
+  "_id": {
+    "$oid": "657111b70946a1900f39a589"  
+  },
+  "lastName": "Twist",
+  "firstName": "Aisha",
+  "wage": {
+    "$numberDecimal": "15.50"  
+  },
+  "sessions": [
+    {
+      "sessionId": {
+        "$oid": "65710de31036eaa637c4cc40"  
+      },
+      "sessionTitle": "Harry Potter Week",
+      "campName": "Athena"
+    }
+  ]
+}
+
+

@@ -1,0 +1,49 @@
+{
+  "_id": {
+    "$oid": "657126e708612775f3733d58"
+  },
+  "sessionId": {
+    "$oid": "65710de31036eaa637c4cc40"
+  },
+  "title": "Wednesday Evening",
+  "startTime": {
+    "$date": "2024-06-05T18:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-05T20:00:00.000Z"
+  },
+  "schedule": [
+    {
+      "unitId": {
+        "$oid": "65710fd2df8234c4bdd2b952"
+      },
+      "unitName": "Hufflepuff",
+      "staffId": {
+        "$oid": "65710fbab4436ef0fe300e5b"  
+      },
+      "staffCampName": "Hermes",
+      "activityId": {
+        "$oid": "6570ea02bbd41e43108d3712" 
+      },
+      "activityName": "Movie"
+    },
+    {
+      "unitId": {
+        "$oid": "657110a782ad404c8e8d7bf2"
+      },
+      "unitName": "Ravenclaw",
+      "staffId": {
+        "$oid": "657110c0e7941777292fe5d8" 
+      },
+      "staffCampName": "Hera",
+      "activityId": {
+        "$oid": "6570e92ee7745a7c1c3f7499"
+      },
+      "activityName": "Archery"
+    }
+  ]
+}
+
+
+
+
